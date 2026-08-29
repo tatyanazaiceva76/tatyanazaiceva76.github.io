@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://tatyanazaiceva76.github.io/sitemap.xml
+Sitemap: https://tatyanazaiceva76.github.io/shelfwise/sitemap.xml
+Sitemap: https://tatyanazaiceva76.github.io/paintline/sitemap.xml
